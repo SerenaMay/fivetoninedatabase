@@ -13,3 +13,5 @@ Run Applet class.
 
 TO CREATE DATABASE:
 Run "fivetonine.sql" in MySQL server of your choice. 
+
+Applet expects Server to be local, and have default parameters. 
